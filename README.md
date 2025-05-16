@@ -1,6 +1,6 @@
 # samsung-notes-windows
 
-Download Notes App: https://drive.google.com/file/d/18wLBq-a7QKTkFl6RJTo_LOM6dRvSeUya/view
+Download Notes App: [https://drive.google.com/file/d/18wLBq-a7QKTkFl6RJTo_LOM6dRvSeUya/view](https://drive.google.com/file/d/1xPWggEyAAY8IqHZw3X9N4cQr_anZS6a5/view?usp=drive_link)
 
 Install Samsung Account, Samsung Cloud, Samsung Settings Sync, and Samsung Continuity Service: https://github.com/Bananz0/GalaxyBookEnabler?tab=readme-ov-file
 
